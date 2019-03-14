@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+  FactoryMethod.cpp
+c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(3): warning C4603: '_USE_MATH_DEFINES': macro is not defined or definition is different after precompiled header use
+  c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(3): note: Add macro to precompiled header instead of defining here
+  c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(55): note: use of precompiled header
+c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(62): error C2653: 'point': is not a class or namespace name
+c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(62): error C3861: 'NewCartesian': identifier not found
+c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(63): error C2653: 'point': is not a class or namespace name
+c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(63): error C2065: 'M_PI_4': undeclared identifier
+c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(63): error C3861: 'NewPolar': identifier not found
+c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(64): error C2039: 'cout': is not a member of 'std'
+  c:\users\anshu\documents\github\design patterns\creational\factory\factory\predefined c++ types (compiler internal)(238): note: see declaration of 'std'
+c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(64): error C2065: 'cout': undeclared identifier
+c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(64): error C2039: 'endl': is not a member of 'std'
+  c:\users\anshu\documents\github\design patterns\creational\factory\factory\predefined c++ types (compiler internal)(238): note: see declaration of 'std'
+c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(64): error C2065: 'endl': undeclared identifier
+c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(66): error C2039: 'cout': is not a member of 'std'
+  c:\users\anshu\documents\github\design patterns\creational\factory\factory\predefined c++ types (compiler internal)(238): note: see declaration of 'std'
+c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(66): error C2065: 'cout': undeclared identifier
+c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(66): error C2039: 'endl': is not a member of 'std'
+  c:\users\anshu\documents\github\design patterns\creational\factory\factory\predefined c++ types (compiler internal)(238): note: see declaration of 'std'
+c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(66): error C2065: 'endl': undeclared identifier

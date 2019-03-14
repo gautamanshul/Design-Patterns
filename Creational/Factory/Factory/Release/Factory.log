@@ -1,0 +1,8 @@
+﻿  FactoryMethod.cpp
+c:\users\anshu\documents\github\design patterns\creational\factory\factory\factorymethod.cpp(77): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Generating code
+  3 of 19 functions (15.8%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Factory.vcxproj -> C:\Users\anshu\Documents\GitHub\Design Patterns\Creational\Factory\Release\FactoryMethod.exe
