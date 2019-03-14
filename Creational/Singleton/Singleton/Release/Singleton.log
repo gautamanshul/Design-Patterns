@@ -1,0 +1,7 @@
+﻿  Singleton.cpp
+  Generating code
+  140 of 774 functions (18.1%) were compiled, the rest were copied from previous compilation.
+    35 functions were new in current compilation
+    51 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Singleton.vcxproj -> C:\Users\anshu\Documents\GitHub\Design Patterns\Creational\Singleton\Release\Singleton.exe
